@@ -5,7 +5,7 @@ namespace SistemaInventario.Database
     public class ConexionDB
     {
         private readonly string connectionString =
-            "Server=Ariel\\SQLEXPRESS;" +
+            "Server=localhost\\SQLEXPRESS;" +
             "Database=InventarioDB;" +
             "User Id=inventario_admin;" +
             "Trusted_Connection=True;" +
