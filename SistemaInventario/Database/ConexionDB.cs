@@ -8,7 +8,7 @@ namespace SistemaInventario.Database
             "Server=Ariel\\SQLEXPRESS;" +
             "Database=InventarioDB;" +
             "User Id=inventario_admin;" +
-            "Password=Inventario123;" +
+            "Trusted_Connection=True;" +
             "TrustServerCertificate=True;";
 
         public SqlConnection ObtenerConexion()

@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Ejecutable\" />
     <Folder Include="Repositories\" />
     <Folder Include="Resources\" />
     <Folder Include="Models\" />
